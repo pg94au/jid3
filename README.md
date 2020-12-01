@@ -27,4 +27,8 @@ JID3 is a class library, written in Java and licensed under the LGPL, which prov
 
 ---
 
+## Status
+
+* I have not maintained this library since my last release in 2005.
+
 _Java and all Java-based trademarks and logos are trademarks or registered trademarks of Sun Microsystems,Inc. in the United States and other countries._
