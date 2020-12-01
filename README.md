@@ -7,22 +7,23 @@ JID3 is a class library, written in Java and licensed under the LGPL, which prov
 
 ## Features
 
-Support for ID3 v1.0, v1.1 and v2.3.0 tags.
-V2.3.0 support for Unicode text, tag compression, frame encryption, tag checksums.
-Jar is also executable, for command-line reading and setting of ID3 v1.1 and equivalent v2.3.0 tags.
+* Support for ID3 v1.0, v1.1 and v2.3.0 tags.
+* V2.3.0 support for Unicode text, tag compression, frame encryption, tag checksums.
+* Jar is also executable, for command-line reading and setting of ID3 v1.1 and equivalent v2.3.0 tags.
 
 ---
 
 ## Requirements
 
-Requires Java 1.4 or later.
-Does not require any other 3rd party libraries. (JUnit required to run tests.)
-Documentation
+* Requires Java 1.4 or later.
+* Does not require any other 3rd party libraries. (JUnit required to run tests.)
 
 ---
 
-## Tutorial
-The ID3 specification can be found at [id3.org](https://id3.org).
+## Documentation
+
+* [Samples](./samples.md)
+* The ID3 specification can be found at [id3.org](https://id3.org).
 
 ---
 
